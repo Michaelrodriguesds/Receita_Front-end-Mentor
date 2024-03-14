@@ -4,18 +4,18 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    
+
 }
 
-body{
+body {
     margin-top: 100px;
-    background-color: #F3E5D8; 
+    background-color: #F3E5D8;
     font-family: 'Outfit', sans-serif;
     overflow: auto;
 }
 
 h1 {
-    font-size:xx-large;
+    font-size: xx-large;
     margin-top: 10px;
     margin-bottom: 10px;
     padding-left: 20px;
@@ -29,7 +29,7 @@ p {
     font-family: 'Outfit', sans-serif;
     padding-left: 20px;
     font-weight: 400;
-    
+
 }
 
 h2 {
@@ -43,20 +43,21 @@ h3 {
     font-family: 'Times New Roman', Times, serif;
     font-size: xx-large;
     padding-top: 10px;
-    padding-bottom:10px;
+    padding-bottom: 10px;
     padding-left: 10px;
 }
+
 .lista_dois {
     padding-left: 25px;
     line-height: 1rem;
     padding-bottom: 10px;
-    
+
 }
 
 hr {
-   margin-top: 15px;
-   margin-bottom: 15px;
-   
+    margin-top: 15px;
+    margin-bottom: 15px;
+
 }
 
 h4 {
@@ -64,16 +65,17 @@ h4 {
     font-family: 'Times New Roman', Times, serif;
     font-size: xx-large;
     padding-top: 10px;
-    padding-bottom:10px;
+    padding-bottom: 10px;
     padding-left: 10px;
 
 }
+
 .lista_tres {
     font-weight: 400;
     font-size: 16px;
-    padding-left: 40px; 
-    
-    
+    padding-left: 40px;
+
+
 }
 
 section {
@@ -83,14 +85,14 @@ section {
     margin: auto;
     background-color: #FFFFFF;
     margin-bottom: 100px;
-    
+
 }
 
 .conteudo {
     max-width: 600px;
     margin: auto;
     overflow: hidden;
-   
+
 }
 
 img {
@@ -100,10 +102,10 @@ img {
 }
 
 .primeiroLi {
-    background-color:#FFF7FC;
+    background-color: #FFF7FC;
     border-radius: 10px;
-    height:auto;
-    width:95%;
+    height: auto;
+    width: 95%;
     margin: auto;
 }
 
@@ -123,18 +125,21 @@ li {
     color: #8A5746;
     padding-left: 200px;
 }
+
 .Nutrition2 {
     font-weight: 600;
     font-family: 'Outfit', sans-serif;
     color: #8A5746;
     padding-left: 220px;
 }
+
 .Nutrition3 {
     font-weight: 600;
     font-family: 'Outfit', sans-serif;
     color: #8A5746;
     padding-left: 210px;
 }
+
 .Nutrition4 {
     font-weight: 600;
     font-family: 'Outfit', sans-serif;
@@ -142,14 +147,49 @@ li {
     padding-left: 235px;
 }
 
+@media screen and (max-width: 768px) {
+    body {
+        margin-top: 50px;
+    }
 
+    h1 {
+        font-size: x-large;
+        padding-left: 10px;
+    }
 
+    p {
+        font-size: small;
+        padding-left: 10px;
+    }
 
+    h2 {
+        padding-left: 15px;
+    }
 
+    h3 {
+        font-size: large;
+        padding-left: 5px;
+    }
 
+    .lista_dois {
+        padding-left: 15px;
+    }
 
+    h4 {
+        font-size: large;
+        padding-left: 5px;
+    }
 
+    .lista_tres {
+        padding-left: 20px;
+    }
+    .containe {
+        padding: 0 10px;
+    }
 
-
-
-
+    .primeiroLi,
+    .estilo_list {
+        width: 90%;
+        margin: auto;
+    }
+}
