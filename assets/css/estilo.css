@@ -150,8 +150,13 @@ li {
 @media screen and (max-width: 768px) {
     body {
         margin-top: 50px;
+        overflow-x: auto;
     }
-
+    
+    main { 
+        overflow-x: auto;
+    }
+     
     h1 {
         font-size: x-large;
         padding-left: 10px;
