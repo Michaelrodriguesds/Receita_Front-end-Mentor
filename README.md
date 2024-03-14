@@ -5,7 +5,7 @@ Este projeto é parte de um desafio proposto pelo [Frontend Mentor](https://www.
 ## O Maior Desafio
 
 Durante o desenvolvimento deste projeto, o maior desafio foi garantir a responsividade do site em diferentes dispositivos e tamanhos de tela. A adaptação do layout para smartphones, tablets e desktops exigiu cuidado e atenção aos detalhes para manter a usabilidade e a estética em todas as plataformas.
-Tenho muito que aprende ainda .. , tivi muita dificuldade e algumas coisas nao consegui reproduzi como no desafio , porem estou muito feliz pelo resultado obtido ;)
+Tenho muito que aprender ainda .. , tiver muita dificuldade e algumas coisas nao conseguir reproduzi como no desafio , porem estou muito feliz pelo resultado obtido ;)
 ## Perguntas Relacionadas
 
 1. Como você abordou a estruturação do HTML para facilitar a estilização?
@@ -21,8 +21,7 @@ Recriar este site foi uma jornada emocionante e desafiadora. Ao longo do process
 
 Se tiver alguma dúvida, sugestão ou apenas quiser trocar ideias sobre este projeto, sinta-se à vontade para me contatar:
 
-- E-mail: seuemail@example.com
-- LinkedIn: [Michae Rodrigues]([https://www.linkedin.com/in/seu-nome/](https://www.linkedin.com/in/michael-rodrigues-b741a1104/))
+- LinkedIn: [Michae Rodrigues](https://www.linkedin.com/in/michael-rodrigues-b741a1104/)
 
 ## Links
 
